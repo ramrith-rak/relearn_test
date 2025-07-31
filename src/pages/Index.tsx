@@ -1,21 +1,25 @@
-import Navigation from "@/components/Navigation";
-import Hero from "@/components/Hero";
-import Services from "@/components/Services";
-import About from "@/components/About";
-import Team from "@/components/Team";
-import Contact from "@/components/Contact";
-import Footer from "@/components/Footer";
+import RLNavigation from "@/components/rl/RLNavigation";
+import RLHero from "@/components/rl/RLHero";
+import RLTrustedBy from "@/components/rl/RLTrustedBy";
+import RLAbout from "@/components/rl/RLAbout";
+import RLServices from "@/components/rl/RLServices";
+import RLPrograms from "@/components/rl/RLPrograms";
+import RLTestimonials from "@/components/rl/RLTestimonials";
+import RLContact from "@/components/rl/RLContact";
+import RLFooter from "@/components/rl/RLFooter";
 
 const Index = () => {
   return (
     <div className="min-h-screen">
-      <Navigation />
-      <Hero />
-      <Services />
-      <About />
-      <Team />
-      <Contact />
-      <Footer />
+      <RLNavigation />
+      <RLHero />
+      <RLTrustedBy />
+      <RLAbout />
+      <RLServices />
+      <RLPrograms />
+      <RLTestimonials />
+      <RLContact />
+      <RLFooter />
     </div>
   );
 };

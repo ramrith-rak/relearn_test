@@ -42,7 +42,7 @@ const Hero = () => {
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </Button>
               <Button 
-                variant="glass" 
+                variant="outline" 
                 size="lg"
                 onClick={() => scrollToSection("services")}
               >
