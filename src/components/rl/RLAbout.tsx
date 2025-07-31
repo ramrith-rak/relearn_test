@@ -46,7 +46,7 @@ const RLAbout = () => {
                 About <span className="text-primary">Relearn Solution</span>
               </h2>
               <p className="text-xl text-muted-foreground leading-relaxed mb-6">
-                Led by visionary CEO Krissada C., Relearn Solution Co., Ltd. has been 
+                Led by visionary CEO Krissada Chalermsook, Relearn Solution Co., Ltd. has been 
                 at the forefront of Thailand's educational technology revolution since 2018.
               </p>
               <p className="text-muted-foreground leading-relaxed mb-8">
@@ -79,12 +79,12 @@ const RLAbout = () => {
 
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=600&q=80"
+              src="https://cdn.discordapp.com/attachments/1282748272712355861/1400417323806097499/O2O-Code-Camp-2-1024x576.png?ex=688c8fc4&is=688b3e44&hm=bb23723bd29380710d5e1bde290cceef71e02033f655b933bfbef076bc608130&"
               alt="Krissada C., CEO of Relearn Solution"
               className="rounded-2xl shadow-elegant w-full"
             />
             <div className="absolute bottom-6 left-6 bg-white/95 backdrop-blur-sm p-4 rounded-xl">
-              <h4 className="font-semibold text-foreground">Krissada C.</h4>
+              <h4 className="font-semibold text-foreground">Krissada Chalermsook</h4>
               <p className="text-sm text-muted-foreground">CEO & Founder</p>
             </div>
           </div>
