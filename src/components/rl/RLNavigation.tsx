@@ -29,7 +29,7 @@ const RLNavigation = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0">
             <img
-              src="/public/logo.png"
+              src="/logo.png"
               alt="Relearn Solution Logo"
               className="h-8 w-auto"
             />
